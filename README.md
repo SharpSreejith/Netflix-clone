@@ -4,11 +4,11 @@ Welcome to the Netflix Clone project! This application replicates the core featu
 
 ---
 
-![Application Screenshot](Netflix1.JPG)
-![Application Screenshot](Netflix3.JPG)
-![Application Screenshot](Netflix4.JPG)
-![Application Screenshot](Netfli5.JPG)
-![Application Screenshot](Netflix6.JPG)
+![Application Screenshot](public/Screens/Netflix1.JPG)
+![Application Screenshot](public/Screens/Netflix3.JPG)
+![Application Screenshot](public/Screens/Netflix4.JPG)
+![Application Screenshot](public/Screens/Netfli5.JPG)
+![Application Screenshot](public/Screens/Netflix6.JPG)
 
 ---
 
