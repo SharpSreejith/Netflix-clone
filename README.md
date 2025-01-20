@@ -95,10 +95,5 @@ Contributions are welcome! Feel free to open issues or submit pull requests for 
 
 ---
 
-## 📜 License
-This project is licensed under the MIT License. See the LICENSE file for details.
-
----
-
 ## 🛠️ Author
 Developed with ❤️ by **Sreejith P**
